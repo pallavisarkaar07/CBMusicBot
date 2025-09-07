@@ -1,17 +1,10 @@
-<h2 align="centre">🎶 Cyber Music Bot 🎶</h2>
+<h2 align="centre">🎶 pallavi sarkar Music Bot 🎶</h2>
 
-### Cyber Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### pallavi sarkar Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
-<p align="center"><a href="https://t.me/CyberMusicBot"><img src="https://telegra.ph/file/a884f8f101263a935b154.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/pallavisarkar MusicBot"><img
 <p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/aryazakaria01/CBMusicBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/aryazakaria01/CBMusicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/aryazakaria01/CBMusicBot"> <img src="https://img.shields.io/github/repo-size/aryazakaria01/CBMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/aryazakaria01/CBMusicBot/commits/main"> <img src="https://img.shields.io/github/last-commit/aryazakaria01/CBMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/aryazakaria01/CBMusicBot/issues"> <img src="https://img.shields.io/github/issues/aryazakaria01/CBMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/aryazakaria01/CBMusicBot/network/members"> <img src="https://img.shields.io/github/forks/aryazakaria01/CBMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/aryazakaria01/CBMusicBot/network/members"> <img src="https://img.shields.io/github/stars/aryazakaria01/CBMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a 
 </p>
 
 <h3>Requirements 📝</h3>
@@ -118,12 +111,3 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `python3 main.py` # Run the bot
 
 ### Special Credits 💖
-- [Arya Zakaria](https://github.com/aryazakaria01): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/callsmusic/callsmusic) CallsMusic
-- [Cyber Music Bot](https://t.me/CyberMusikBot) Our Music Bot
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [TeamDaisyX](https://github.com/TeamDaisyX) for base code
-
-### Support & Updates 🎑
-<a href="https://t.me/CyberSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/CyberMusicProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
